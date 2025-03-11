@@ -16,5 +16,8 @@
     "url": "https://github.com/olesiashnn/web2025-3/issues"
   },
   "homepage": "https://github.com/olesiashnn/web2025-3#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
 }
